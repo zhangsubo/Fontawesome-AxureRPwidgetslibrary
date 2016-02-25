@@ -12,8 +12,7 @@ Font Awesome是一款目前很流行的字体图标工具。它随着Bootstrap�
 #### 版本支持
 因为我工作和个人的原因，这个部件库我使用的是Axure RP Pro 8.0 Bate制作,因此只支持8.0及以上（当然现在只有8.0的测试版）。
 #### 项目支持
-我的个人网站：[http://zhangsubo.cn](http://www.zhangsubo.cn)
-项目地址：[Fontawesome4.5.0图标字体Axure部件库]( http://zhangsubo.cn/2016/02/25/fontawesome-axurerpwidgetslibrary/)
-Github地址：[Fontawesome-AxureRPwidgetslibrary](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary)
-下载地址：[Github](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary/archive/master.zip)/[百度云](http://pan.baidu.com/s/1i4uLJff)
-不过因为我用Axure 8.0制作所以请在8.0版本中使用。
+我的个人网站：[http://zhangsubo.cn](http://www.zhangsubo.cn)<br />
+项目地址：[Fontawesome4.5.0图标字体Axure部件库]( http://zhangsubo.cn/2016/02/25/fontawesome-axurerpwidgetslibrary/))<br />
+Github地址：[Fontawesome-AxureRPwidgetslibrary](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary))<br />
+下载地址：[Github](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary/archive/master.zip)/[百度云](http://pan.baidu.com/s/1i4uLJff))<br />
