@@ -1,5 +1,5 @@
 # Fontawesome4.5.0图标字体Axure部件库
-小楼老师曾经制作过一版Fontawesome4.4.0的Axure部件库。三个月前FontAwesome项目更新了4.5版本，修复了一些BUG并增加了20多个全新图标。我利用小楼老师的部件库并添加了4.5版本新增的图标。当然，后续还会逐渐添加新的组件，我会在积累到一定程度后再更新新版。
+小楼老师曾经制作过一版Fontawesome4.4.0的Axure部件库。三个月前FontAwesome项目更新了4.5版本，修复了一些BUG并增加了20多个全新图标。我利用小楼老师的部件库并添加了4.5版本新增的图标。不过因为我用Axure 8.0制作所以请在8.0版本中使用。
 #### Fontawesome字体介绍
 Font Awesome是一款目前很流行的字体图标工具。它随着Bootstrap的流行而逐渐被人所认识，现在FontAwesome不仅仅可以在Bootstrap上使用，还可以应用在各种web前端开发中。相对于传统的使用背景图片作为图标，字体图标主要是支持自适应、可以使用字体的各种特性（比如变色、变大变小、字体阴影等）、减少数据加载、样式更容易定义等。
 #### 关于这个部件库
@@ -16,4 +16,4 @@ Font Awesome是一款目前很流行的字体图标工具。它随着Bootstrap�
 项目地址：[Fontawesome4.5.0图标字体Axure部件库]( http://zhangsubo.cn/2016/02/25/fontawesome-axurerpwidgetslibrary/)
 Github地址：[Fontawesome-AxureRPwidgetslibrary](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary)
 下载地址：[Github](https://github.com/zhangsubo/Fontawesome-AxureRPwidgetslibrary/archive/master.zip)/[百度云](http://pan.baidu.com/s/1i4uLJff)
-
+不过因为我用Axure 8.0制作所以请在8.0版本中使用。
